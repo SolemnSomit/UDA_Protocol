@@ -1,0 +1,251 @@
+Packet seq no in sendto function : 1     -2147483648   -2147483648
+Packet seq no in sendto function : 1     -2147483648   -2147483648
+Packet seq no in sendto function : 1     -2147483648   -2147483648
+Packet seq no in sendto function : 1     -2147483648   -2147483648
+Inside pack data 
+No loss, Packing a new packet...
+Seq num incremented, new is 204751733
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+No loss, Packing a new packet...
+Seq num incremented, new is 204751734
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Timed out in core
+Timed out in CCC new CW = 64
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751733   204751733
+Packet seq no in Worker Thread : 0     204751733
+Inside pack data 
+Loss retransmission first priority.
+setted the payload!!!
+Packet seq no in sendto function : 0     204751734   204751734
+Packet seq no in Worker Thread : 0     204751734
+Inside pack data 
+No loss, Packing a new packet...
+Packet seq no in sendto function : 1     -2147090432   -2147090432
+ ack seq num: 1  updated offset: 2
+On Ack cWnd ------------------Inside pack data 
+No loss, Packing a new packet...
+64
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
+Packet seq no in sendto function : 1     -2147352576   -2147352576
