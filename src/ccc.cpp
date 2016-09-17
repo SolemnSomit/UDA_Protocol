@@ -48,6 +48,8 @@ written by
 using namespace std;
 
 double intial_cw = 16.0;
+double avg_cw = 0.0;
+long long avg_count = 0;
 
 CCC::CCC():
 m_iSYNInterval(CUDT::m_iSYNInterval),
@@ -257,7 +259,9 @@ void CUDTCC::onACK(int32_t ack)
 
       }
    }
-
+   avg_count += 1;
+   avg_cw += ((double)m_dCWndSize - avg_cw)/(double)avg_count;
+   cout <<"Average CW : " <<avg_cw <<"        , count : " <<avg_count<<endl; 
    // if (m_dCWndSize > m_dMaxCWndSize)
    //    {
    //       m_bSlowStart = false;
