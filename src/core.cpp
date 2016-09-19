@@ -2109,7 +2109,7 @@ void CUDT::processCtrl(CPacket& ctrlpkt)
       m_iRTT = (m_iRTT * 7 + rtt) >> 3;
 
       m_pCC->setRTT(m_iRTT);
-
+      cout<<" RTT when ACK2 is received: "<<m_iRTT<<"     VARIANCE: "<<m_iRTTVar<<endl; 
       // update last ACK that has been received by the sender
       if (CSeqNo::seqcmp(ack, m_iRcvLastAckAck) > 0)
          m_iRcvLastAckAck = ack;
